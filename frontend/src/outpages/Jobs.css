@@ -1,0 +1,29 @@
+.job-card {
+    border-radius: 15px; /* Rounded corners */
+    border: 1px solid #000306 !important; /* Light blue border */
+    height: 100%; /* Ensure all cards are the same height */
+    transition: transform 0.2s; /* Smooth scale on hover */
+  }
+  
+  .job-card:hover {
+    transform: scale(1.03); /* Slightly enlarge card on hover */
+  }
+  
+  .card-title {
+    color: #123862; /* Darker blue for titles */
+    font-weight: bold;
+  }
+  
+  .card-footer {
+    background-color: #f8f9fa; /* Light background for footer */
+  }
+  
+  .btn-primary {
+    background-color: #123d6b; /* Primary color for button */
+    border: none; /* Remove border */
+  }
+  
+  .btn-primary:hover {
+    background-color: #113256; /* Darker blue on hover */
+  }
+  

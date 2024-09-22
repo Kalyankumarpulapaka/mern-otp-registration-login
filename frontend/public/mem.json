@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "type": "Basic Membership",
+        "duration": "1 month",
+        "price": "$10",
+        "benefits": [
+            "Access to basic courses",
+            "Monthly newsletters",
+            "Forum participation"
+        ]
+    },
+    {
+        "id": 2,
+        "type": "Standard Membership",
+        "duration": "6 months",
+        "price": "$50",
+        "benefits": [
+            "Access to all courses",
+            "Monthly webinars",
+            "Priority support"
+        ]
+    },
+    {
+        "id": 3,
+        "type": "Premium Membership",
+        "duration": "1 year",
+        "price": "$100",
+        "benefits": [
+            "Access to all courses and resources",
+            "One-on-one mentoring",
+            "Networking events"
+        ]
+    },
+    {
+        "id": 4,
+        "type": "Student Membership",
+        "duration": "6 months",
+        "price": "$25",
+        "benefits": [
+            "Access to all courses",
+            "Discounts on events",
+            "Career counseling"
+        ]
+    },
+    {
+        "id": 5,
+        "type": "Corporate Membership",
+        "duration": "1 year",
+        "price": "$500",
+        "benefits": [
+            "Access for up to 10 employees",
+            "Customized training programs",
+            "Dedicated account manager"
+        ]
+    },
+    {
+        "id": 6,
+        "type": "Lifetime Membership",
+        "duration": "Lifetime",
+        "price": "$300",
+        "benefits": [
+            "Access to all courses for life",
+            "Exclusive lifetime webinars",
+            "Personalized career coaching"
+        ]
+    },
+    {
+        "id": 7,
+        "type": "Scholar Membership",
+        "duration": "1 year",
+        "price": "$60",
+        "benefits": [
+            "Access to all courses",
+            "Free career resources",
+            "Networking opportunities"
+        ]
+    },
+    {
+        "id": 8,
+        "type": "Family Membership",
+        "duration": "1 year",
+        "price": "$200",
+        "benefits": [
+            "Access for up to 4 family members",
+            "Group discounts on events",
+            "Family networking events"
+        ]
+    },
+    {
+        "id": 9,
+        "type": "Senior Citizen Membership",
+        "duration": "1 year",
+        "price": "$30",
+        "benefits": [
+            "Access to all courses",
+            "Discounts on workshops",
+            "Community support groups"
+        ]
+    },
+    {
+        "id": 10,
+        "type": "Referral Membership",
+        "duration": "1 year",
+        "price": "$80",
+        "benefits": [
+            "Access to all courses",
+            "Referral bonuses for bringing in new members",
+            "Exclusive member events"
+        ]
+    }
+]

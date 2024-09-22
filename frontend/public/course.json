@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Full Stack Web Development",
+        "instructor": "John Doe",
+        "duration": "12 weeks",
+        "description": "Learn to build web applications using HTML, CSS, JavaScript, and Node.js.",
+        "price": "$500",
+        "level": "Beginner"
+    },
+    {
+        "id": 2,
+        "title": "Data Science with Python",
+        "instructor": "Jane Smith",
+        "duration": "8 weeks",
+        "description": "Dive into data analysis and machine learning using Python.",
+        "price": "$600",
+        "level": "Intermediate"
+    },
+    {
+        "id": 3,
+        "title": "Digital Marketing Essentials",
+        "instructor": "Emily Johnson",
+        "duration": "6 weeks",
+        "description": "Master the fundamentals of digital marketing and SEO strategies.",
+        "price": "$400",
+        "level": "Beginner"
+    },
+    {
+        "id": 4,
+        "title": "Graphic Design Basics",
+        "instructor": "Michael Brown",
+        "duration": "10 weeks",
+        "description": "Learn the principles of graphic design and tools like Adobe Illustrator.",
+        "price": "$450",
+        "level": "Beginner"
+    },
+    {
+        "id": 5,
+        "title": "Project Management Professional (PMP)",
+        "instructor": "Sarah Davis",
+        "duration": "16 weeks",
+        "description": "Prepare for the PMP certification with this comprehensive course.",
+        "price": "$800",
+        "level": "Advanced"
+    },
+    {
+        "id": 6,
+        "title": "User Experience (UX) Design",
+        "instructor": "Chris Wilson",
+        "duration": "12 weeks",
+        "description": "Learn how to create user-friendly designs and conduct usability testing.",
+        "price": "$500",
+        "level": "Intermediate"
+    },
+    {
+        "id": 7,
+        "title": "JavaScript for Beginners",
+        "instructor": "Anna Garcia",
+        "duration": "5 weeks",
+        "description": "Get started with JavaScript, the language of the web.",
+        "price": "$300",
+        "level": "Beginner"
+    },
+    {
+        "id": 8,
+        "title": "Advanced Excel Skills",
+        "instructor": "David Martinez",
+        "duration": "4 weeks",
+        "description": "Learn advanced functions and data analysis techniques in Excel.",
+        "price": "$250",
+        "level": "Intermediate"
+    },
+    {
+        "id": 9,
+        "title": "Cybersecurity Fundamentals",
+        "instructor": "Jessica Lee",
+        "duration": "10 weeks",
+        "description": "Understand the basics of cybersecurity and how to protect systems.",
+        "price": "$500",
+        "level": "Intermediate"
+    },
+    {
+        "id": 10,
+        "title": "Introduction to Cloud Computing",
+        "instructor": "Kevin Walker",
+        "duration": "6 weeks",
+        "description": "Learn about cloud services, deployment models, and security.",
+        "price": "$400",
+        "level": "Beginner"
+    }
+]

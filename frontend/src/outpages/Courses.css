@@ -1,0 +1,28 @@
+.course-card {
+    border-radius: 15px; /* Rounded corners for cards */
+    border: 1px solid #0a0a0a !important; /* Light blue border */
+    transition: transform 0.2s; /* Smooth scale on hover */
+  }
+  
+  .course-card:hover {
+    transform: scale(1.05); /* Slightly enlarge card on hover */
+  }
+  
+  .card-title {
+    color: #0056b3; /* Darker blue for titles */
+    font-weight: bold;
+  }
+  
+  .card-footer {
+    background-color: #f8f9fa; /* Light background for footer */
+  }
+  
+  .btn-primary {
+    background-color: #007bff; /* Primary color for button */
+    border: none; /* Remove border */
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  

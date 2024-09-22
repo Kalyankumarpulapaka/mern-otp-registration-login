@@ -1,0 +1,34 @@
+/* Inav.css */
+.navbar {
+    background-color: #343a40; /* Dark background for the navbar */
+    padding: 1rem; /* Increased padding for better spacing */
+}
+  
+.navbar-brand {
+    font-size: 1.8rem !important; /* Larger font size for the brand */
+    font-weight: bold; /* Bold brand name */
+    color: #ffffff; /* White color for brand */
+}
+  
+.nav-link {
+    color: #ffffff; /* White text color for links */
+    font-size: 1.3rem !important; /* Font size for links */
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+  
+.nav-link:hover {
+    color: #ffcc00; /* Gold color on hover */
+}
+  
+.active-link {
+    font-weight: bold; /* Bold for active link */
+    border-bottom: 2px solid #ffcc00; /* Gold underline for active link */
+}
+  
+.navbar-toggler {
+    border-color: #ffcc00; /* Gold color for the toggler */
+}
+  
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30' fill='%23ffcc00'%3E%3Cpath stroke='rgba(255, 204, 0, 0.5)' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}

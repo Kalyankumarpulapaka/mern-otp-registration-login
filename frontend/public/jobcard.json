@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "company": "Tech Solutions Inc.",
+        "location": "New York, NY",
+        "datePosted": "2024-09-01",
+        "description": "Looking for a skilled Software Engineer with 3+ years of experience in web development.",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "Proficiency in JavaScript, React, and Node.js",
+            "Experience with RESTful APIs and version control (Git)"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Data Analyst",
+        "company": "Data Insights LLC",
+        "location": "San Francisco, CA",
+        "datePosted": "2024-09-02",
+        "description": "Seeking a Data Analyst to interpret data and provide insights to drive business decisions.",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Contract",
+        "requirements": [
+            "Bachelor's degree in Data Science, Statistics, or related field",
+            "Experience with SQL and data visualization tools (e.g., Tableau)",
+            "Strong analytical and problem-solving skills"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "UX/UI Designer",
+        "company": "Creative Minds Agency",
+        "location": "Austin, TX",
+        "datePosted": "2024-09-03",
+        "description": "Join our team as a UX/UI Designer to create engaging user experiences.",
+        "salary": "$80,000 - $100,000",
+        "jobType": "Full-time",
+        "requirements": [
+            "Bachelor's degree in Design or related field",
+            "Proficiency in design software (e.g., Sketch, Adobe XD)",
+            "Strong portfolio demonstrating design process"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Project Manager",
+        "company": "Global Corp.",
+        "location": "Chicago, IL",
+        "datePosted": "2024-09-04",
+        "description": "We are looking for a Project Manager with experience in agile methodologies.",
+        "salary": "$95,000 - $120,000",
+        "jobType": "Full-time",
+        "requirements": [
+            "Bachelor's degree in Business Administration or related field",
+            "PMP or Scrum certification preferred",
+            "Proven experience managing projects from start to finish"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Marketing Specialist",
+        "company": "Market Masters Inc.",
+        "location": "Miami, FL",
+        "datePosted": "2024-09-05",
+        "description": "Seeking a Marketing Specialist to develop and execute marketing strategies.",
+        "salary": "$60,000 - $80,000",
+        "jobType": "Part-time",
+        "requirements": [
+            "Bachelor's degree in Marketing or related field",
+            "Experience with digital marketing and SEO",
+            "Strong communication and teamwork skills"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Full Stack Developer",
+        "company": "Innovatech",
+        "location": "Seattle, WA",
+        "datePosted": "2024-09-06",
+        "description": "Join our tech team as a Full Stack Developer with strong JavaScript skills.",
+        "salary": "$100,000 - $130,000",
+        "jobType": "Full-time",
+        "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "Experience with React, Node.js, and MongoDB",
+            "Strong understanding of web development best practices"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Data Scientist",
+        "company": "Data Driven Co.",
+        "location": "Boston, MA",
+        "datePosted": "2024-09-07",
+        "description": "Looking for a Data Scientist with experience in machine learning and analytics.",
+        "salary": "$110,000 - $150,000",
+        "jobType": "Full-time",
+        "requirements": [
+            "Master's degree in Data Science, Statistics, or related field",
+            "Experience with Python and machine learning libraries (e.g., scikit-learn)",
+            "Strong analytical and problem-solving skills"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Customer Service Representative",
+        "company": "Service First",
+        "location": "Phoenix, AZ",
+        "datePosted": "2024-09-08",
+        "description": "We need a Customer Service Representative to assist customers and resolve issues.",
+        "salary": "$35,000 - $45,000",
+        "jobType": "Full-time",
+        "requirements": [
+            "High school diploma or equivalent",
+            "Excellent communication and interpersonal skills",
+            "Experience in customer service preferred"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Graphic Designer",
+        "company": "Design Studio",
+        "location": "Los Angeles, CA",
+        "datePosted": "2024-09-09",
+        "description": "Join our creative team as a Graphic Designer to create visual concepts.",
+        "salary": "$70,000 - $90,000",
+        "jobType": "Full-time",
+        "requirements": [
+            "Bachelor's degree in Graphic Design or related field",
+            "Proficiency in Adobe Creative Suite",
+            "Strong portfolio of design work"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Sales Manager",
+        "company": "Sales Solutions",
+        "location": "Denver, CO",
+        "datePosted": "2024-09-10",
+        "description": "We are looking for a Sales Manager to lead our sales team and drive revenue.",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "requirements": [
+            "Bachelor's degree in Business or related field",
+            "Proven sales experience and leadership skills",
+            "Strong negotiation and communication skills"
+        ]
+    }
+]

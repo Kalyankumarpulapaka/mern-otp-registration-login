@@ -1,0 +1,45 @@
+.navbar {
+  height: 100px;
+  background-color: black !important;
+  padding: 0 50px !important;
+}
+
+.navbar-brand {
+  font-size: 2rem !important;
+  font-weight: bold;
+  margin-right: auto; /* Align brand to the left */
+}
+
+.nav-link {
+  margin: 0 20px;
+  font-size: 1rem;
+}
+
+.navbar-nav {
+  margin-left: auto; /* Pushes nav links to the right */
+}
+
+.navbar-toggler {
+  margin-left: auto; /* Ensures the toggler is aligned properly */
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3E%3Cpath stroke='%23fff' stroke-width='3' d='M5 7h20M5 15h20M5 23h20'/%3E%3C/svg%3E");
+}
+
+/* Responsive styles */
+@media (max-width: 576px) {
+  .navbar {
+    padding: 0 15px; /* Adjust padding for smaller screens */
+  }
+
+  .navbar-brand {
+    font-size: 1.5rem; /* Smaller brand font size on small screens */
+  }
+
+  .nav-link {
+    margin: 0 10px; /* Adjust link margins for smaller screens */
+  }
+}
+
+
